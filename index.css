@@ -89,6 +89,7 @@ p {
     margin: 0;
     padding-top: 1.375rem;
     color: var(--dark-grayish-blue);
+    text-decoration: line-through;
 }
 
 button {
